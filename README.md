@@ -5,3 +5,4 @@ Some very simple programs to understand the basics of natural language processin
 1. Tokenization
 2. Stemming
 3. Lemmatization
+4. TF-IDF
